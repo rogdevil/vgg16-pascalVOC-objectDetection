@@ -1,0 +1,1 @@
+It is a Object detection model  using the concept of transfer learning and selective search method the the accuracy can reach upto 90 percent. Currently it can detect only cars.
